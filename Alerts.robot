@@ -14,7 +14,7 @@ alertslearn
     Handle Alert    dismiss    #rejects the alert
     Handle Alert    leave    #keep displaying the alert
     Alert Should Be Present    okay    #checks whether the alert is present or not
-
+    #just added to check the git hub
     Sleep    2s
 *** Keywords ***
 
